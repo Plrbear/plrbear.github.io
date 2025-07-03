@@ -7,7 +7,7 @@ profile:
   align: right
   image: Amir.jpeg
   image_circular: true # crops the image to make it circular
-  more_info: >
+more_info: >
   <p>a.dadashzadeh@bristol.ac.uk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
