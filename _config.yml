@@ -7,11 +7,8 @@ first_name: Amirhossein
 last_name: Dadashzadeh
 email: a.dadashzadeh@bristol.ac.uk
 
-# ADD THE SOCIAL MEDIA SETTINGS HERE:
-github_username: Plrbear
-scholar_userid: your-google-scholar-id
-
-contact_note:
+contact_note: >
+  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
