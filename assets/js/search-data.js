@@ -448,11 +448,11 @@ ninja.data = [{
           window.open("mailto:%61.%64%61%64%61%73%68%7A%61%64%65%68@%62%72%69%73%74%6F%6C.%61%63.%75%6B", "_blank");
         },
       },{
-        id: 'social-gitlab',
-        title: 'GitLab',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://gitlab.com/Plrbear", "_blank");
+          window.open("https://github.com/Plrbear", "_blank");
         },
       },{
         id: 'social-scholar',
