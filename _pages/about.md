@@ -6,24 +6,16 @@ permalink: /
 profile:
   align: right
   image: Amir.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: true
   more_info: >
     <p>a.dadashzadeh@bristol.ac.uk</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi! I'm a Research Associate at the University of Bristol, working on the [TORUS project](https://torus.ac.uk). I completed my PhD in Computer Vision under the supervision of [Professor Majid Mirmehdi](https://majidmirmehdi.github.io) and [Dr. Alan Whone](https://research-information.bris.ac.uk/en/persons/alan-l-whone), focusing on learning strategies for Parkinson's disease assessment. My research interests include **Parameter-Efficient Learning**, **Domain Adaptation**, **Self-Supervised Learning**, and **Edge AI Deployment**. I'm particularly passionate about developing methods that work effectively with unlabelled/limited labeled data and can be efficiently deployed on resource-constrained hardware.
