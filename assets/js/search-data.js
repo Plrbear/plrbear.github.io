@@ -384,16 +384,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-our-paper-pecop-parameter-efficient-continual-pretraining-for-action-quality-assessment-has-been-accepted-at-wacv-2024-code-and-the-new-pd4t-dataset-are-now-available",
+          title: 'Our paper PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
