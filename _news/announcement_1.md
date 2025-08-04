@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-10
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment has been accepted at WACV 2024! Code and the new PD4T dataset are now available.
