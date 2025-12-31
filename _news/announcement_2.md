@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 **PFED5 released!** – A Parkinson's disease facial expression dataset with 41 patients, 5 expressions, and MDS-UPDRS scores.  
-[➡️ Download PFED5](https://github.com/shuchaoduan/QAFE-Net)
+[Download PFED5](https://github.com/shuchaoduan/QAFE-Net)
