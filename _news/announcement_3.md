@@ -7,4 +7,4 @@ related_posts: false
 
 **SEA accepted at NeurIPS 2024!**  
 Paper on reducing temporal rollout error in long-sequence PDE generation.  
-🧠 Code available here → [GitHub Repository](https://github.com/ParsaEsmati/SEA)
+ Code available here → [GitHub Repository](https://github.com/ParsaEsmati/SEA)
