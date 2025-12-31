@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 **PECoP @ WACV 2024!** – Code and PD4T dataset now available.
-[➡️ GitHub](https://github.com/Plrbear/PECoP)
+[GitHub](https://github.com/Plrbear/PECoP)
