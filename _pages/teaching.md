@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+description: 
+nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Guest Lectures
 
-Organize your courses by years, topics, or universities, however you like!
+### COMS30030: Image Processing and Computer Vision
+**University of Bristol** | 3rd Year Undergraduate Course  
+**Academic Years:** 2023–2024, 2024–2025  
+**Main Instructor:** Prof. Majid Mirmehdi
+
+**Lectures Delivered:**
+- Edge Detection and Filtering (2024)
+- Object and Face Detection (2025)
