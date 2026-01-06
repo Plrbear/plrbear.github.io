@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a guest lecture for the [Computer Vision](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30030) at University of Bristol.
+I gave a guest lecture in the [Computer Vision](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30030) at the University of Bristol.
