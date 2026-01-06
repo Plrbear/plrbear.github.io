@@ -400,7 +400,7 @@ ninja.data = [{
           section: "News",},{id: "news-sea-accepted-at-neurips-2024-paper-on-reducing-temporal-rollout-error-in-long-sequence-pde-generation-code-available-here-github-repository",
           title: 'SEA accepted at NeurIPS 2024! Paper on reducing temporal rollout error in long-sequence...',
           description: "",
-          section: "News",},{id: "news-care-pd-dataset-introduced-at-neurips-2025-a-multi-site-anonymized-3d-gait-dataset-derived-from-rgb-video-and-motion-capture-project-website-https-neurips2025-care-pd-ca",
+          section: "News",},{id: "news-care-pd-dataset-introduced-at-neurips-2025-a-multi-site-anonymized-3d-gait-dataset-derived-from-rgb-video-and-motion-capture-project-website",
           title: 'CARE-PD dataset introduced at NeurIPS 2025 A multi-site anonymized 3D gait dataset derived...',
           description: "",
           section: "News",},{id: "news-co-star-accepted-at-wacv-2026-code-available-here-github-repository",
