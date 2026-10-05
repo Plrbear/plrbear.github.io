@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-pecop-wacv-2024-code-and-pd4t-dataset-now-available-github",
-          title: 'PECoP @ WACV 2024! – Code and PD4T dataset now available. GitHub',
+            },},{id: "news-pecop-accepted-at-wacv-2024-as-an-oral-presentation-top-5-code-and-pd4t-dataset-available-here-github-repository",
+          title: 'PECoP accepted at WACV 2024 as an oral presentation (top 5%)! Code and...',
           description: "",
           section: "News",},{id: "news-pfed5-released-a-parkinson-s-disease-facial-expression-dataset-with-41-patients-5-expressions-and-mds-updrs-scores-download-pfed5",
           title: 'PFED5 released! – A Parkinson’s disease facial expression dataset with 41 patients, 5...',
