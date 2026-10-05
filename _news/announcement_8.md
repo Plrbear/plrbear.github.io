@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I co-chaired the [BMVA Symposium on Human Behaviour Understanding](https://www.bmva.org/meetings/26-09-30-HumanBehaviourUnderstanding.html) and gave a talk on “Privacy-Preserving Computer Vision for In-Home Parkinson’s Monitoring”!
+**I co-chaired and gave a talk at the** [BMVA Symposium on Human Behaviour Understanding](https://www.bmva.org/meetings/26-09-30-HumanBehaviourUnderstanding.html)!
