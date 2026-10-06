@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-**Probability-Conserving Flow Guidance accepted at NeurIPS 2026 as a poster!**  
+Our paper, **Probability-Conserving Flow Guidance** accepted at NeurIPS 2026 as a poster!  
 Paper available here → [arXiv Paper](https://arxiv.org/pdf/2605.20079)
